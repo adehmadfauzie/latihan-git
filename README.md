@@ -1,2 +1,2 @@
 # latihan-git
-this is the fist projek using github
+this is the first projek using github
